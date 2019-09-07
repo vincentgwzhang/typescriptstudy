@@ -4,7 +4,8 @@
   "description": "Typescript Hello World",
   "main": "src/index.js",
   "scripts": {
-    "01": "node_modules/.bin/ts-node src/0.1.basic-types.ts"
+    "01": "node_modules/.bin/ts-node src/0.1.basic-types.ts",
+    "02": "node_modules/.bin/ts-node src/0.2.variable-declarations.ts"
   },
   "author": "",
   "license": "ISC",
