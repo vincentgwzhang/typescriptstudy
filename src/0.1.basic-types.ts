@@ -1,3 +1,6 @@
+//https://www.tslang.cn/docs/handbook/basic-types.html
+// npm run 01
+
 // boolean
 let isDone: boolean = false;
 
