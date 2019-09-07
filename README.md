@@ -1,7 +1,14 @@
-# codemix-vanilla-typescript
+### Preparation
+1. Git clone the repository
+2. Install Nodejs and Typescript
+3. In the workspace, run ```npm install```
 
-Template for project creation of Typescript inside CodeMix
-
-## Contents
-
-This template project is just an example Hello World that guide you through the use of typescript and nodejs to build a very simple console application that display a Hello World!!! Greeting
+#### Usage:
+1. Create one file(for example, 0.1.basic-types.ts) in typescript file in src
+2. In the package.json file, update the script part.
+```
+  "scripts": {
+    "01": "node_modules/.bin/ts-node src/0.1.basic-types.ts"
+  },
+```
+3. Run ```npm run 01```
