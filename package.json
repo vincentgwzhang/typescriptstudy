@@ -5,7 +5,9 @@
   "main": "src/index.js",
   "scripts": {
     "01": "node_modules/.bin/ts-node src/0.1.basic-types.ts",
-    "02": "node_modules/.bin/ts-node src/0.2.variable-declarations.ts"
+    "02": "node_modules/.bin/ts-node src/0.2.variable-declarations.ts",
+    "03": "node_modules/.bin/ts-node src/0.3.interfaces.ts",
+    "04": "node_modules/.bin/ts-node src/0.4.classes.ts"
   },
   "author": "",
   "license": "ISC",
